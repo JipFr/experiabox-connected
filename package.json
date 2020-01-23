@@ -1,0 +1,18 @@
+{
+  "name": "experiabox-connected",
+  "version": "1.0.0",
+  "description": "Krijg gebruikers die verbonden zijn met je ExperiaBox",
+  "main": "index.js",
+  "scripts": {
+    "run": "node ."
+  },
+  "author": "Jip Frijlink",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0",
+    "js-sha256": "^0.9.0",
+    "node-fetch": "^2.6.0",
+    "xml2js": "^0.4.23"
+  }
+}
