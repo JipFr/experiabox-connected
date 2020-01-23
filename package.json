@@ -2,7 +2,7 @@
   "name": "experiabox-connected",
   "version": "1.0.0",
   "description": "Krijg gebruikers die verbonden zijn met je ExperiaBox",
-  "main": "index.js",
+  "main": "example.js",
   "scripts": {
     "run": "node ."
   },
