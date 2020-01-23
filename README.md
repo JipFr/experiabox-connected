@@ -20,4 +20,4 @@ Het resultaat van `getConnected` aanroepen is een Promise, die dan een array ter
     "InterfaceType": "...",
     "AddressSource": "..."
   }
-]```
+]`
